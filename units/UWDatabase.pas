@@ -42,7 +42,7 @@ var
 begin
   lLiteConnection := TLiteConnection.Create(nil);
   lLiteConnection.ClientLibrary := ExtractFilePath(Application.ExeName) + '\sqlite3.dll';
-  lLiteConnection.Database := ExtractFilePath(Application.ExeName) + '\database.db';
+  lLiteConnection.Database := ExtractFilePath(Application.ExeName) + '\data.db';
   try
     lLiteConnection.Connect;
   except

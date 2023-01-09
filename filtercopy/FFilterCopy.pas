@@ -5,7 +5,8 @@ interface
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
   Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.FileCtrl, Vcl.StdCtrls, Vcl.ExtCtrls, System.Threading,
-  Vcl.Mask, System.RegularExpressions, FTransfer, FSameFilesOutputOption, UWGlobal, UWFileFilter, UWFile, UWFileTransfer, UWDatabase, UWDatabase.ExtensionLabels,
+  Vcl.Mask, System.RegularExpressions, FTransfer, FSameFilesOutputOption, UWGlobal, UWFileFilter, UWFile, UWFileTransfer, {UWDatabase, UWDatabase.ExtensionLabels,}
+  UWDatabaseV2, UWDatabase.ExtensionLabelsV2,
   Vcl.Imaging.GIFImg;
 
 type

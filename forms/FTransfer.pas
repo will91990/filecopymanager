@@ -4,7 +4,7 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ComCtrls, UWCopy, UWFile, UWFileTransfer, UWDatabase,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ComCtrls, UWCopy, UWFile, UWFileTransfer, UWDatabaseV2,
   Vcl.StdCtrls;
 
 type

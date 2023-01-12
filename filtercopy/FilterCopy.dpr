@@ -10,8 +10,6 @@ uses
   FSameFilesOutputOption in '..\forms\FSameFilesOutputOption.pas' {frmSameFilesOutputOption},
   FTransfer in '..\forms\FTransfer.pas' {frmTransfer},
   UWCopy in '..\units\UWCopy.pas',
-  UWDatabase.ExtensionLabels in '..\units\UWDatabase.ExtensionLabels.pas',
-  UWDatabase in '..\units\UWDatabase.pas',
   UWFile in '..\units\UWFile.pas',
   UWFileFilter in '..\units\UWFileFilter.pas',
   UWFileTransfer in '..\units\UWFileTransfer.pas',

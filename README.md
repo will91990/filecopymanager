@@ -1,4 +1,5 @@
-# FILE COPY MANAGER
+
+# <img src="https://user-images.githubusercontent.com/3373551/212430169-80faad45-4045-4367-82e9-4a9e14fb8264.png" width="40" height="40"> FILE COPY MANAGER
 File Copy Manager será uma suite de programas para auxiliar em atividades de cópia de arquivos em massa. Esta suite destina-se a profissionais que necessitam de ferramentas para copiar, transferir (entre redes smb e dispositivos externos) e organizar arquivos em massa.
 
 ## Filter Copy
